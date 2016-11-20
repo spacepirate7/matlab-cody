@@ -5,7 +5,7 @@ https://github.com/amhughes/MATLAB-Cody
 
 These are my solutions to the cody problems. Not the best ones.
 
-Complete =
+Complete = 15/96
 
  - [x] 1: Times 2
  - [x] 2: Make the vector  - [1 2 3 4 5 6 7 8 9 10]
