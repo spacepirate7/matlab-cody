@@ -15,7 +15,7 @@ Complete =
  - [ ] 6: Select every other element of a vector
  - [x] 7: Column Removal
  - [x] 8: Add two numbers
- - [ ] 9: Who Has the Most Change
+ - [x] 9: Who Has the Most Change
  - [x] 10: Determine if vector is monotonically increasing
  - [ ] 11: Back and Forth Rows
  - [x] 12: Fibonacci sequence
