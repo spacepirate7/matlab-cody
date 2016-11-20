@@ -3,6 +3,8 @@
 This readme file is cloned from amhughes
 https://github.com/amhughes/MATLAB-Cody
 
+These are my solutions to the cody problems. Not the best ones.
+
 Complete =
 
  - [x] 1: Times 2
