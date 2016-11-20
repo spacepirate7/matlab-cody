@@ -38,7 +38,7 @@ Complete =
  - [ ] 29: Nearest Numbers
  - [ ] 30: Sort a list of complex numbers
  - [ ] 31
- - [ ] 32: Most nonzero elements in row
+ - [x] 32: Most nonzero elements in row
  - [ ] 33: Create times-tables
  - [ ] 34
  - [ ] 35
