@@ -12,7 +12,7 @@ Complete = 15/96
  - [ ] 3: Find the sum of the input vector
  - [x] 4: Make a checkerboard matrix
  - [x] 5: Triangle Numbers
- - [ ] 6: Select every other element of a vector
+ - [x] 6: Select every other element of a vector
  - [x] 7: Column Removal
  - [x] 8: Add two numbers
  - [x] 9: Who Has the Most Change
