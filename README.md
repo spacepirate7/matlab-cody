@@ -1,9 +1,9 @@
 # matlab-cody
 - [ ] 1: Times 2
-2: Make the vector - [1 2 3 4 5 6 7 8 9 10]
-3: Find the sum of the input vector
-4: Make a checkerboard matrix
-5: Triangle Numbers
+- [ ] 2: Make the vector - [1 2 3 4 5 6 7 8 9 10]
+- [ ] 3: Find the sum of the input vector
+- [ ] 4: Make a checkerboard matrix
+- [ ] 5: Triangle Numbers
 6: Select every other element of a vector
 7: Column Removal
 8: Add two numbers
