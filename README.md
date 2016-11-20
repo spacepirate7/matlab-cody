@@ -16,7 +16,7 @@ Complete =
  - [x] 7: Column Removal
  - [x] 8: Add two numbers
  - [ ] 9: Who Has the Most Change
- - [ ] 10: Determine if vector is monotonically increasing
+ - [x] 10: Determine if vector is monotonically increasing
  - [ ] 11: Back and Forth Rows
  - [x] 12: Fibonacci sequence
  - [ ] 13
