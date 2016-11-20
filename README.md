@@ -4,6 +4,7 @@ This readme file is cloned from amhughes
 https://github.com/amhughes/MATLAB-Cody
 
 These are my solutions to the cody problems. Not the best ones.
+I'm aware of the method of using strings to reduce the code size dramatically and make it the leading solution. I didn't want to use these codes as they are pointless and would never be used for real computation purposes.
 
 Complete = 17/96
 
