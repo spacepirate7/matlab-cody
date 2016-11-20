@@ -1,6 +1,6 @@
 # matlab-cody
 
-This readme file is cloned from amhughes
+This readme file is based on the one from amhughes
 https://github.com/amhughes/MATLAB-Cody
 
 These are my solutions to the cody problems. Not the best ones.
