@@ -9,7 +9,7 @@ Complete = 16/96
 
  - [x] 1: Times 2
  - [x] 2: Make the vector  - [1 2 3 4 5 6 7 8 9 10]
- - [ ] 3: Find the sum of the input vector
+ - [x] 3: Find the sum of the input vector
  - [x] 4: Make a checkerboard matrix
  - [x] 5: Triangle Numbers
  - [x] 6: Select every other element of a vector
