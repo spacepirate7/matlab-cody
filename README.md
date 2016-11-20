@@ -102,4 +102,4 @@ Complete = 15/96
  - [ ] 93
  - [ ] 94: Target sorting
  - [ ] 95
- - [ ] 96
+ - [x] 96: Weighted Average
