@@ -18,7 +18,7 @@ Complete = 17/96
  - [x] 8: Add two numbers
  - [x] 9: Who Has the Most Change
  - [x] 10: Determine if vector is monotonically increasing
- - [ ] 11: Back and Forth Rows
+ - [x] 11: Back and Forth Rows
  - [x] 12: Fibonacci sequence
  - [ ] 13
  - [x] 14: Find the mean of the prime numbers in a matrix
