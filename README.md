@@ -32,7 +32,7 @@ Complete = 17/96
  - [ ] 22
  - [x] 23: Finding Perfect Squares
  - [ ] 24
- - [ ] 25
+ - [x] 25: Remove any row in which a NaN appears
  - [x] 26: Determine if input is odd
  - [ ] 27
  - [ ] 28: Counting Money
